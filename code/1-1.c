@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main() {
   char s1[10] = "hi";
   char s2[] = "hi";
   char s3[] = {'h','i', '\0'};
@@ -9,6 +9,6 @@ int main(){
   printf("%s\n", s2);
   printf("%s\n", s3);
 
-retrun 0;
+  retrun 0;
 
 }
