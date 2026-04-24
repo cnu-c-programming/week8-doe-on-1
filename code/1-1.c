@@ -9,6 +9,6 @@ int main() {
   printf("%s\n", s2);
   printf("%s\n", s3);
 
-  retrun 0;
+  return 0;
 
 }
