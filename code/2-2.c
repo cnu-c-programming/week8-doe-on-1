@@ -13,7 +13,7 @@ void bar() {
 int main() {
 
     foo();
-    bar():
+    bar();
 
     return 0;
 }
